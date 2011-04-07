@@ -1,0 +1,16 @@
+net.sourceforge.iharder
+org.mozilla.browser
+org.mozilla.browser.common
+org.mozilla.browser.impl
+org.mozilla.browser.impl.components
+org.mozilla.browser.impl.jna
+org.mozilla.interfaces
+ru.atomation.jbrowser.abstracts
+ru.atomation.jbrowser.impl
+ru.atomation.jbrowser.interfaces
+ru.atomation.jbrowser.interfaces.tasks
+ru.atomation.utils.sevenzip
+ru.atomation.utils.sevenzip.compression.lz
+ru.atomation.utils.sevenzip.compression.lzma
+ru.atomation.utils.sevenzip.compression.rangecoder
+ru.atomation.xulnative
